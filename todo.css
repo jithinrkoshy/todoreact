@@ -1,0 +1,26 @@
+.content-bg{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(228, 236, 193);
+    min-height: 500px;
+    padding: 2px;
+    }  
+    
+.bg-img{
+    background-image: url(../bg.png);
+    }
+.bg-contain{
+     background-color: rgb(226, 240, 164);
+    }
+.btn-right{
+    
+ margin:10px;
+  
+}    
+hr{ 
+    height: 1px;
+    color: rgb(95, 165, 192);
+    background-color: silver;
+    border: none;
+    
+  }

@@ -1,0 +1,9 @@
+
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration: line-through;
+  }
+.bg-reminder{
+    color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+}  
